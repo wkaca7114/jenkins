@@ -1,1 +1,1 @@
-docker pull jenkins/jenkins:lts-centos
+from jenkins/jenkins:lts-centos
